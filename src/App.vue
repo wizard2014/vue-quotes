@@ -22,9 +22,7 @@
     export default {
         data() {
             return {
-                quotes: [
-                    'Just a Quote to see something'
-                ],
+                quotes: [],
                 maxQuotes: 10
             };
         },
